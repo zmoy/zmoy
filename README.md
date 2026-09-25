@@ -39,5 +39,5 @@ A full-stack, AI-driven dermatological triage Proof of Concept designed to detec
 *   Agile, Scrum, Lean, Jira
 *   AI Strategy, Cross-functional & Cross-cultural Collaboration
 
+
 *   Always open to discussing how technology can drive meaningful impact. Feel free to reach out!
-*   
