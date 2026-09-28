@@ -40,4 +40,4 @@ A full-stack, AI-driven dermatological triage Proof of Concept designed to detec
 *   AI Strategy, Cross-functional & Cross-cultural Collaboration
 
 
-Always open to discussing how technology can drive meaningful impact. Feel free to reach out!
+I am currently open to new job opportunities! Whether you want to discuss emerging technologies or potential roles, feel free to reach out.
