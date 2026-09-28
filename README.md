@@ -16,7 +16,7 @@ I am an Artificial Intelligence and Software Engineer with a dual background in 
 *   🤝 **Approach:** Strong advocate for Agile methodologies and aligning technical roadmaps with tangible business ROI.
 
 ## 🔬 Featured Project: Lucid Derma-Scan AI
-**[👉 View Repository](https://github.com/zmoy/derma-scan)**
+**[👉 View Repository](https://github.com/zmoy/derma-scan)** | **[🌐 Live Demo](https://lucid-derma-scan.streamlit.app/)**
 
 A full-stack, AI-driven dermatological triage Proof of Concept designed to detect melanoma and classify skin lesions from dermoscopic images. 
 *   **Modeling:** Deeply fine-tuned ResNet34 with custom Focal Loss, boosting melanoma recall from 16% to 82%.
@@ -40,4 +40,4 @@ A full-stack, AI-driven dermatological triage Proof of Concept designed to detec
 *   AI Strategy, Cross-functional & Cross-cultural Collaboration
 
 
-*   Always open to discussing how technology can drive meaningful impact. Feel free to reach out!
+Always open to discussing how technology can drive meaningful impact. Feel free to reach out!
