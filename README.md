@@ -41,4 +41,4 @@ A full-stack, AI-driven dermatological triage Proof of Concept designed to detec
 *   AI Strategy, Cross-functional & Cross-cultural Collaboration
 
 
-I am currently open to new job opportunities! Whether you want to discuss emerging technologies or potential roles, feel free to reach out.
+I am currently open to new job opportunities! Feel free to explore my **[interactive portfolio](https://zachariemoy.vercel.app/)** to see my work in action, or reach out to discuss emerging technologies and potential roles.
