@@ -2,6 +2,7 @@
 
 **AI & Software Engineer | ESIEA x SKEMA Business School**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-8A2BE2?style=flat&logo=vercel)](https://zachariemoy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zacharie-moy/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:moy@et.esiea.fr)
 
