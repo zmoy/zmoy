@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zacharie-moy/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:moy@et.esiea.fr)
 
-I am an Artificial Intelligence and Software Engineer with a dual background in deep tech and business transformation. With hands-on experience scaling full-stack architectures and deploying generative AI solutions, I aim to leverage computer vision and NLP to build impactful products. I am actively pursuing opportunities in the **Healthcare** and **Climate/Environmental** sectors to contribute to human well-being and biodiversity conservation.
+Dual-degree AI and Software Engineer (Tech & Business) specialized in bridging the gap between rapid prototyping and production. With hands-on experience scaling full-stack architectures and deploying both Generative AI (RAG, LLMs) and Computer Vision solutions, I build robust and scalable products. I leverage MLOps best practices to solve complex, real-world challenges and drive technical innovation across diverse and impactful industries.
 
 ## 🚀 About Me
 *   🎓 **Education:** Graduating in late 2025 with an Engineering Degree (ESIEA) and an MSc in Artificial Intelligence for Business Transformation (SKEMA).
