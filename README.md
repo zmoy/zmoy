@@ -19,10 +19,11 @@ Dual-degree AI and Software Engineer (Tech & Business) specialized in bridging t
 ## 🔬 Featured Project: Lucid Derma-Scan AI
 **[👉 View Repository](https://github.com/zmoy/derma-scan)** | **[🌐 Live Demo](https://lucid-derma-scan.streamlit.app/)**
 
-A full-stack, AI-driven dermatological triage Proof of Concept designed to detect melanoma and classify skin lesions from dermoscopic images. 
-*   **Modeling:** Deeply fine-tuned ResNet34 with custom Focal Loss, boosting melanoma recall from 16% to 82%.
-*   **Explainability:** Integrated Grad-CAM to generate thermal heatmaps, providing visual transparency for medical professionals.
-*   **Architecture:** Fully containerized microservices relying on a FastAPI backend and Streamlit frontend.
+An end-to-end AI proof of concept that classifies 7 types of skin lesions, including melanoma, from dermoscopic images.
+*   **Modeling:** Fine-tuned ResNet34 (PyTorch) with WeightedRandomSampler and Focal Loss to handle severe class imbalance.
+*   **Honest evaluation:** Found a data leak (39.5% of validation images shared a lesion with training) and re-evaluated on a clean set of 1,212 images: malignant vs benign sensitivity 89%, specificity 83%, ROC-AUC 0.92; melanoma ROC-AUC 0.88. Bootstrap confidence intervals, calibration and threshold selection.
+*   **Explainability:** Grad-CAM heatmaps showing which image regions drove each prediction.
+*   **Architecture:** FastAPI backend and Streamlit frontend.
 
 ## 🛠️ Tech Stack & Skills
 
