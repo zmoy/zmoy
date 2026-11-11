@@ -16,7 +16,7 @@ Dual-degree AI and Software Engineer (Tech & Business) specialized in bridging t
 *   🧠 **Focus:** Specialized in Medical Imaging (MONAI, OpenCV) and addressing complex ML challenges like severe class imbalances and Explainable AI (XAI).
 *   🤝 **Approach:** Strong advocate for Agile methodologies and aligning technical roadmaps with tangible business ROI.
 
-## 🔬 Featured Project: Lucid Derma-Scan AI
+## 🔬 Project: Lucid Derma-Scan AI
 **[👉 View Repository](https://github.com/zmoy/derma-scan)** | **[🌐 Live Demo](https://lucid-derma-scan.streamlit.app/)**
 
 An end-to-end AI proof of concept that classifies 7 types of skin lesions, including melanoma, from dermoscopic images.
@@ -24,6 +24,15 @@ An end-to-end AI proof of concept that classifies 7 types of skin lesions, inclu
 *   **Honest evaluation:** Found a data leak (39.5% of validation images shared a lesion with training) and re-evaluated on a clean set of 1,212 images: malignant vs benign sensitivity 89%, specificity 83%, ROC-AUC 0.92; melanoma ROC-AUC 0.88. Bootstrap confidence intervals, calibration and threshold selection.
 *   **Explainability:** Grad-CAM heatmaps showing which image regions drove each prediction.
 *   **Architecture:** FastAPI backend and Streamlit frontend.
+
+## 🫀 Project: 3D Organ Mapper
+**[👉 View Repository](https://github.com/zmoy/organ-mapper)**
+
+3D segmentation of 13 abdominal organs in CT scans (MONAI, PyTorch Lightning), built under a 4 GB VRAM constraint.
+*   **Results:** mean Dice raised from 0.44 to 0.72 in 5-fold cross-validation (30 annotated volumes) through per-class patch sampling, a weighted loss, augmentations and Gaussian sliding-window inference.
+*   **Rigorous iteration:** every change is accepted only after a paired test on the same volumes (bootstrap + Wilcoxon); error analysis traced the worst distance errors to organ parts missed by the model, not to false positives.
+*   **MLOps:** CI with linting, tests and an auto-generated results report; resumable training with disk-space guards.
+
 
 ## 🛠️ Tech Stack & Skills
 
